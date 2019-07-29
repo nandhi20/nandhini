@@ -26,7 +26,7 @@
 
 .nav-header-list{
 
-    justify-content:center;
+    justify-content:bottom;
     width:200px;
     height:inherit;
     margin-left:100px;
@@ -124,7 +124,7 @@
 }
 
 
-#footer-image1, #footer-image2, #footer-image3 ,#footer-image4, #footer-image5{
+#footer-image{
     width:30px;
     height:30px;
     margin-right: 1em;
